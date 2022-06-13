@@ -5,3 +5,5 @@ update 1 in template dev1
 update 2 in template dev1
 update 1 from child 2 pushing into main template
 update 2 from child 2 into template dev
+
+update 4 in main template
